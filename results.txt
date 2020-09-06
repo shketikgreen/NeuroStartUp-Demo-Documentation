@@ -1,0 +1,2 @@
+Ссылку на ваш GitHub проект; https://github.com/shketikgreen/NeuroStartUp-Demo
+Ссылки на коммит. https://github.com/shketikgreen/NeuroStartUp-Demo/commit/36f589ec299aafbdd5a4ac0d0e7f7798f78ac66a
